@@ -18,6 +18,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [FCHardNet](#FCHardNet)
    
 ### Requirement
+[(Back to top)](#table-of-contents)
 ```
 pip install -r requirements.txt
 ```
@@ -25,26 +26,18 @@ pip install -r requirements.txt
 ### implement 
 [(Back to top)](#table-of-contents)
 
+### Attention
+[(Back to top)](#table-of-contents)
 
 ### Unet
 [(Back to top)](#table-of-contents)
 
-![Unet](https://user-images.githubusercontent.com/58428559/210389166-bee0d5e5-1810-41af-8628-3fd4907e3aa8.png)
-
-
 
 ### FCHardNet
-
+[(Back to top)](#table-of-contents)
 
 
 ### Reference 
 [(Back to top)](#table-of-contents)
 
-GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training
-
-https://arxiv.org/abs/1805.06725
-
-Skip-GANomaly: Skip Connected and Adversarially Trained Encoder-Decoder Anomaly Detection
-
-https://arxiv.org/pdf/1901.08954.pdf
 

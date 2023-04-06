@@ -1,7 +1,7 @@
-# simple-network-Pytorch
+# Simple-Segment-Pytorch
 [(Back to top)](#table-of-contents)
 
-implement simple network, you can regard these code as a outline of the network
+implement simple semantic segmentation network, you can regard these code as a outline of the network
 
 
 ### Table of contents
@@ -10,7 +10,7 @@ implement simple network, you can regard these code as a outline of the network
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [simple-network-Pytorch](#simple-network-Pytorch)
+- [Simple-Segment-Pytorch](#Simple-Segment-Pytorch)
 - [Requirement](#Requirement)
 - [implement](#implement)
 - [Attention](#Attention)

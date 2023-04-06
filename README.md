@@ -1,7 +1,7 @@
 ### simple-network-Pytorch
 [(Back to top)](#table-of-contents)
 
-implement simple network
+implement simple network, you can regard these code as a outline of the network
 
 
 ### Table of contents

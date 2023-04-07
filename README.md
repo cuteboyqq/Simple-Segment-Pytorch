@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ### Attention
 [(Back to top)](#table-of-contents)
 
+The main network of self-attention architecture is below :
 Ref from paper https://arxiv.org/abs/1805.08318
 ![image](https://user-images.githubusercontent.com/58428559/230553064-bfed3fe9-0b0e-48c0-aa1f-77270a280328.png)
 

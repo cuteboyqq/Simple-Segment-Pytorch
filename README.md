@@ -65,7 +65,7 @@ Ref code : https://github.com/milesial/Pytorch-UNet
 
 [(View Code)](DeeplabV3/DeepLabV3_ver2.py)
 
-Below Image is Ref. from paper : Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation https://arxiv.org/abs/1802.02611 
+Below three Images is Ref. from paper : Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation https://arxiv.org/abs/1802.02611 
 
 ![image](https://user-images.githubusercontent.com/58428559/230640073-77cf2ab2-a070-41c3-9d9e-0872e1bbeb09.png)
 

@@ -35,9 +35,9 @@ below image Ref from paper https://arxiv.org/abs/1805.08318
 
 ![image](https://user-images.githubusercontent.com/58428559/230553064-bfed3fe9-0b0e-48c0-aa1f-77270a280328.png)
 
-CBAM :
+The main architecture network of CBAM is below :
 
-The image is Ref0 from https://arxiv.org/abs/1807.06521
+The image is Ref from paper https://arxiv.org/abs/1807.06521
 
 ![image](https://user-images.githubusercontent.com/58428559/230556436-ec41313b-13b0-41cd-a329-2919944df7e8.png)
 

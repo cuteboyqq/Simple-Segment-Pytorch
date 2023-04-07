@@ -35,13 +35,13 @@ pip install -r requirements.txt
 
 The main network of self-attention architecture is below :
 
-below image Ref from paper https://arxiv.org/abs/1805.08318
+below image Ref from paper Self-Attention Generative Adversarial Networks : https://arxiv.org/abs/1805.08318
 
 ![image](https://user-images.githubusercontent.com/58428559/230553064-bfed3fe9-0b0e-48c0-aa1f-77270a280328.png)
 
 The main architecture network of CBAM is below :
 
-The image is Ref from paper https://arxiv.org/abs/1807.06521
+The image is Ref from paper CBAM: Convolutional Block Attention Module : https://arxiv.org/abs/1807.06521
 
 [(View Code)](Attention/CBAM/CBAM.py)
 
@@ -54,7 +54,7 @@ The image is Ref from paper https://arxiv.org/abs/1807.06521
 
 [(View Code)](Unet_official/Unet.py)
 
-below image Ref from paper : https://arxiv.org/abs/1505.04597
+below image Ref from paper U-Net: Convolutional Networks for Biomedical Image Segmentation : https://arxiv.org/abs/1505.04597
 
 Ref code : https://github.com/milesial/Pytorch-UNet
 
@@ -65,7 +65,7 @@ Ref code : https://github.com/milesial/Pytorch-UNet
 
 [(View Code)](DeeplabV3/DeepLabV3_ver2.py)
 
-Below Image is Ref. from https://arxiv.org/abs/1802.02611 
+Below Image is Ref. from Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation : https://arxiv.org/abs/1802.02611 
 
 Ref. From Paper : Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 

@@ -16,6 +16,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Attention](#Attention)
 - [Unet](#Unet)
 - [FCHardNet](#FCHardNet)
+- [DeepLabV3](#DeepLabV3)
    
 ### Requirement
 [(Back to top)](#table-of-contents)
@@ -51,6 +52,17 @@ below image Ref from paper : https://arxiv.org/abs/1505.04597
 Ref code : https://github.com/milesial/Pytorch-UNet
 
 ![image](https://user-images.githubusercontent.com/58428559/230554890-98880bf8-104f-4b7f-a910-2132586f60b0.png)
+
+### DeepLabV3
+[(Back to top)](#table-of-contents)
+
+Below Image is Ref. from https://arxiv.org/abs/1802.02611 
+
+Ref. From Paper : Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+
+![image](https://user-images.githubusercontent.com/58428559/230640073-77cf2ab2-a070-41c3-9d9e-0872e1bbeb09.png)
+
+![image](https://user-images.githubusercontent.com/58428559/230639982-d015cd80-2e6c-43bd-97fd-efe12b254ece.png)
 
 
 ### FCHardNet

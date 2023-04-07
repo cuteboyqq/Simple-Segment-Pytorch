@@ -39,6 +39,9 @@ Ref from paper https://arxiv.org/abs/1805.08318
 
 ### FCHardNet
 [(Back to top)](#table-of-contents)
+Base on Unet network, and use Resnet block to construct Unet
+
+![image](https://user-images.githubusercontent.com/58428559/230553644-01db9dbd-62c7-461a-9b46-9308666f43db.png)
 
 
 ### Reference 

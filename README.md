@@ -28,9 +28,9 @@ pip install -r requirements.txt
 [(Back to top)](#table-of-contents)
 
 ### Attention
-[code](#Attention/Self-Attn-original/Self_Attention.py)
-
 [(Back to top)](#table-of-contents)
+
+[code](Attention/Self-Attn-original/Self_Attention.py)
 
 The main network of self-attention architecture is below :
 

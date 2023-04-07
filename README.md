@@ -59,7 +59,8 @@ Ref code : https://github.com/milesial/Pytorch-UNet
 
 ### DeepLabV3
 [(Back to top)](#table-of-contents)
-[(code)](DeepLabV3/DeepLabV3_ver2.py)
+
+[(view-code)](DeepLabV3/DeepLabV3_ver2.py)
 
 Below Image is Ref. from https://arxiv.org/abs/1802.02611 
 

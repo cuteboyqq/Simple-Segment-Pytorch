@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### implement 
 [(Back to top)](#table-of-contents)
 
-### Attention
+## Attention
 [(Back to top)](#table-of-contents)
 
 [(View Code)](Attention/Self-Attn-original/Self_Attention.py)
@@ -48,7 +48,7 @@ The image is Ref from paper https://arxiv.org/abs/1807.06521
 
 ![image](https://user-images.githubusercontent.com/58428559/230556530-597caec6-40c7-413f-8d49-7de881f5949f.png)
 
-### Unet
+## Unet
 [(Back to top)](#table-of-contents)
 
 [(View Code)](Unet_official/Unet.py)
@@ -59,7 +59,7 @@ Ref code : https://github.com/milesial/Pytorch-UNet
 
 ![image](https://user-images.githubusercontent.com/58428559/230554890-98880bf8-104f-4b7f-a910-2132586f60b0.png)
 
-### DeepLabV3
+## DeepLabV3
 [(Back to top)](#table-of-contents)
 
 [(View Code)](DeeplabV3/DeepLabV3_ver2.py)
@@ -73,14 +73,14 @@ Ref. From Paper : Encoder-Decoder with Atrous Separable Convolution for Semantic
 ![image](https://user-images.githubusercontent.com/58428559/230639982-d015cd80-2e6c-43bd-97fd-efe12b254ece.png)
 
 
-### FCHardNet
+## FCHardNet
 [(Back to top)](#table-of-contents)
 Base on Unet network, and use Resnet block to construct Unet
 
 ![image](https://user-images.githubusercontent.com/58428559/230553644-01db9dbd-62c7-461a-9b46-9308666f43db.png)
 
 
-### Reference 
+## Reference 
 [(Back to top)](#table-of-contents)
 
 

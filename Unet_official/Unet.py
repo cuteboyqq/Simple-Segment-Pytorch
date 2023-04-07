@@ -6,7 +6,7 @@ Created on Fri Apr  7 14:29:57 2023
 """
 
 """ Full assembly of the parts to form the complete network """
-
+''' Code is Ref. from https://github.com/milesial/Pytorch-UNet'''
 #from .Unet_parts import Down,Up,DoubleConv,OutConv
 import torch.nn as nn
 import torch.utils

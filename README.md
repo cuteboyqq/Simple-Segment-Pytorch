@@ -83,4 +83,23 @@ Base on Unet network, and use Resnet block to construct Unet
 ## Reference 
 [(Back to top)](#table-of-contents)
 
+1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation :
+
+https://arxiv.org/abs/1802.02611
+
+2. U-Net: Convolutional Networks for Biomedical Image Segmentation :
+
+https://arxiv.org/abs/1505.04597
+
+3. CBAM: Convolutional Block Attention Module :
+
+https://arxiv.org/abs/1807.06521
+
+4. Self-Attention Generative Adversarial Networks :
+
+https://arxiv.org/abs/1805.08318
+
+
+
+
 

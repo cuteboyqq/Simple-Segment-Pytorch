@@ -71,6 +71,7 @@ Below Image is Ref. from paper : Encoder-Decoder with Atrous Separable Convoluti
 
 ![image](https://user-images.githubusercontent.com/58428559/230639982-d015cd80-2e6c-43bd-97fd-efe12b254ece.png)
 
+![image](https://user-images.githubusercontent.com/58428559/230649662-c433f805-5ffc-4cd0-8aca-081eff0a6b8c.png)
 
 ## FCHardNet
 [(Back to top)](#table-of-contents)

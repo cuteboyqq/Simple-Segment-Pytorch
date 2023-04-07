@@ -35,6 +35,14 @@ below image Ref from paper https://arxiv.org/abs/1805.08318
 
 ![image](https://user-images.githubusercontent.com/58428559/230553064-bfed3fe9-0b0e-48c0-aa1f-77270a280328.png)
 
+CBAM :
+
+The image is Ref0 from https://arxiv.org/abs/1807.06521
+
+![image](https://user-images.githubusercontent.com/58428559/230556436-ec41313b-13b0-41cd-a329-2919944df7e8.png)
+
+![image](https://user-images.githubusercontent.com/58428559/230556530-597caec6-40c7-413f-8d49-7de881f5949f.png)
+
 ### Unet
 [(Back to top)](#table-of-contents)
 

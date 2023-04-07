@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Attention
 [(Back to top)](#table-of-contents)
 
-[(code)](Attention/Self-Attn-original/Self_Attention.py)
+[(View Code)](Attention/Self-Attn-original/Self_Attention.py)
 
 The main network of self-attention architecture is below :
 
@@ -49,7 +49,7 @@ The image is Ref from paper https://arxiv.org/abs/1807.06521
 ### Unet
 [(Back to top)](#table-of-contents)
 
-[(code)](Unet_official/Unet.py)
+[(View Code)](Unet_official/Unet.py)
 
 below image Ref from paper : https://arxiv.org/abs/1505.04597
 
@@ -60,7 +60,7 @@ Ref code : https://github.com/milesial/Pytorch-UNet
 ### DeepLabV3
 [(Back to top)](#table-of-contents)
 
-[(view-code)](DeeplabV3/DeepLabV3_ver2.py)
+[(View Code)](DeeplabV3/DeepLabV3_ver2.py)
 
 Below Image is Ref. from https://arxiv.org/abs/1802.02611 
 

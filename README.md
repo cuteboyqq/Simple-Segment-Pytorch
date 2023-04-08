@@ -73,6 +73,14 @@ Below three Images is Ref. from paper : Encoder-Decoder with Atrous Separable Co
 
 ![image](https://user-images.githubusercontent.com/58428559/230649662-c433f805-5ffc-4cd0-8aca-081eff0a6b8c.png)
 
+###ASPP
+below two images is Ref. from paper : Rethinking Atrous Convolution for Semantic Image Segmentation https://arxiv.org/abs/1706.05587
+
+![image](https://user-images.githubusercontent.com/58428559/230705017-ce0bb714-aed5-42ac-8da8-e527d936589f.png)
+
+![image](https://user-images.githubusercontent.com/58428559/230705070-9a094c3b-7a00-435b-be18-bc1c23f7243c.png)
+
+
 ## FCHardNet
 [(Back to top)](#table-of-contents)
 Base on Unet network, and use Resnet block to construct Unet
@@ -86,13 +94,16 @@ Base on Unet network, and use Resnet block to construct Unet
 1. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation :
 https://arxiv.org/abs/1802.02611
 
-2. U-Net: Convolutional Networks for Biomedical Image Segmentation :
+2. Rethinking Atrous Convolution for Semantic Image Segmentation 
+https://arxiv.org/abs/1706.05587
+
+3. U-Net: Convolutional Networks for Biomedical Image Segmentation :
 https://arxiv.org/abs/1505.04597
 
-3. CBAM: Convolutional Block Attention Module :
+4. CBAM: Convolutional Block Attention Module :
 https://arxiv.org/abs/1807.06521
 
-4. Self-Attention Generative Adversarial Networks :
+5. Self-Attention Generative Adversarial Networks :
 https://arxiv.org/abs/1805.08318
 
 

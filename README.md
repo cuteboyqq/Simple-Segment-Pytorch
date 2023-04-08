@@ -73,7 +73,7 @@ Below three Images is Ref. from paper : Encoder-Decoder with Atrous Separable Co
 
 ![image](https://user-images.githubusercontent.com/58428559/230649662-c433f805-5ffc-4cd0-8aca-081eff0a6b8c.png)
 
-###ASPP
+### ASPP
 below two images is Ref. from paper : Rethinking Atrous Convolution for Semantic Image Segmentation https://arxiv.org/abs/1706.05587
 
 ![image](https://user-images.githubusercontent.com/58428559/230705017-ce0bb714-aed5-42ac-8da8-e527d936589f.png)
